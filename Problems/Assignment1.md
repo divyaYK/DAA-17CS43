@@ -122,4 +122,4 @@ but not by 4.
 with lines depicting outline, diagonals, horizonal
 and vertifical divisions. The diagram will look
 slightly different from odd and even as below <br />
-![boxes](image)
+![](/images/stars.PNG)
